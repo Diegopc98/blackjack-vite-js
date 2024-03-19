@@ -1,6 +1,6 @@
  # Blackjack Vite
   
-  pasos para ejecutar el proyecto:
+  Pasos para ejecutar el proyecto:
 
   1. Clonar el repositorio
   2. Ejecutar ```npm install``` para construir los modulos de node
